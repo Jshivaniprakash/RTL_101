@@ -1,5 +1,6 @@
 #Full adder
-https://1drv.ms/i/c/603820405ed1501b/EQwPrLiNB1dDiECHaqVV38AB7geEyhtATtikTnKX2FRVFA?e=qOGBke
-https://1drv.ms/i/c/603820405ed1501b/EUq2JiRka2xDnmHMVOa9l_oB6QYbLiS105og8J2TVMqnDg?e=XCDrjM
-https://1drv.ms/i/c/603820405ed1501b/EeT4xC7BzUdBhwR0BPPOy8oBC9HNV5_dDfSbdHRSypVEcA?e=D8Ydpf
-https://1drv.ms/i/c/603820405ed1501b/ETOxwRgdGkpBgrSV_rdLhF8BVyHrzECZ8wGK2gzgzaQngw?e=PF6SKI
+![Screenshot (220)](https://github.com/user-attachments/assets/04c3c31c-8b4e-41b1-927d-313aaad3dbee)
+![Screenshot (221)](https://github.com/user-attachments/assets/50bafae4-1d95-40b6-9330-4603120d38fa)
+![Screenshot (222)](https://github.com/user-attachments/assets/b525fa2f-8a7e-47f4-b971-c5cf2a97ea56)
+![Screenshot (223)](https://github.com/user-attachments/assets/db0484eb-731d-4e5c-b703-c6f4e8bc9238)
+![Screenshot (224)](https://github.com/user-attachments/assets/44dc176f-dba5-4a6d-b849-6b60d7b3a9ee)
