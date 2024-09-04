@@ -1,6 +1,8 @@
 # RTL_101
 1. Difference between latches and flip-flops:
-   Latches:
+   
+    Latches:
+   
    1. A latch is an asynchronous device
    2. Latches do not require clock signal
    3. Operation depends on enable signal.
@@ -8,7 +10,9 @@
    5. They are simple to design as there is no clock signal 
    6. Operation is faster
    7. Power requirement is less.
+      
    Flip-Flops:
+   
    1. A flip-flop is a synchronous device
    2. Flip-flop requires clock signal
    3. Operation depends on clock signal
